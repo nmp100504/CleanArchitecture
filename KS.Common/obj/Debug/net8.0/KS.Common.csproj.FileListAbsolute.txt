@@ -1,0 +1,11 @@
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/bin/Debug/net8.0/KS.Common.deps.json
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/bin/Debug/net8.0/KS.Common.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/bin/Debug/net8.0/KS.Common.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/KS.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/KS.Common.AssemblyInfoInputs.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/KS.Common.AssemblyInfo.cs
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/KS.Common.csproj.CoreCompileInputs.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/KS.Common.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/refint/KS.Common.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/KS.Common.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.Common/obj/Debug/net8.0/ref/KS.Common.dll

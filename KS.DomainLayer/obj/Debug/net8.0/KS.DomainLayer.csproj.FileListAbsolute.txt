@@ -1,0 +1,17 @@
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/bin/Debug/net8.0/KS.DomainLayer.deps.json
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/bin/Debug/net8.0/KS.DomainLayer.runtimeconfig.json
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/bin/Debug/net8.0/KS.DomainLayer.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/bin/Debug/net8.0/KS.DomainLayer.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.csproj.AssemblyReference.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.AssemblyInfoInputs.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.AssemblyInfo.cs
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.csproj.CoreCompileInputs.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/refint/KS.DomainLayer.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.DomainLayer.genruntimeconfig.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/ref/KS.DomainLayer.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/bin/Debug/net8.0/KS.InfrastructureLayer.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/bin/Debug/net8.0/KS.InfrastructureLayer.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL_FUKS_.NET_03/KS.CleanArchitecture/KS.DomainLayer/obj/Debug/net8.0/KS.Domai.8FAAAAE2.Up2Date
